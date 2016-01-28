@@ -1,0 +1,43 @@
+[en]
+LVL_1 = Frightened Civilian
+LVL_2 = Civilian
+LVL_3 = Fighter
+LVL_4 = Private Third Class
+LVL_5 = Private Second Class
+LVL_6 = Private First Class
+LVL_7 = Free Agent
+LVL_8 = Professional Free Agent
+LVL_9 = Professional Force Member
+LVL_10 = Professional Force Leader
+LVL_11 = Special Force Member
+LVL_12 = Special Force Leader
+LVL_13 = United Forces Member
+LVL_14 = United Forces Leader
+LVL_15 = Hidden Operations Member
+LVL_16 = Hidden Operations Scheduler
+LVL_17 = Hidden Operations Leader
+LVL_18 = General
+LVL_19 = Highest Force Member
+LVL_20 = Highest Force Leader
+
+[ru]
+LVL_1 = ШПАКИНАТОР9000ПРОВЕРКААДИНДВАТРИЧЕТРЫЕ
+LVL_2 = Ефрейтор
+LVL_3 = Мл. сержант
+LVL_4 = Сержант
+LVL_5 = Ст. сержант
+LVL_6 = Старшина
+LVL_7 = Прапорщик
+LVL_8 = Ст. прапорщик
+LVL_9 = Мл. лейтенант
+LVL_10 = Лейтенант
+LVL_11 = Ст. лейтенант
+LVL_12 = Капитан
+LVL_13 = Майор
+LVL_14 = Подполковник
+LVL_15 = Полковник
+LVL_16 = Генерал-майор
+LVL_17 = Генерал-лейтенант
+LVL_18 = Генерал-полковник
+LVL_19 = Генерал армии
+LVL_20 = Маршал

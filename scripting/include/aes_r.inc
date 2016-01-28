@@ -1,0 +1,5 @@
+native aes_field_register(field_name[],field_size = 1,bool:allow_save = true)
+native aes_field_list(index,uniqueid[],unique_id_len,&size,&for_save)
+native aes_field_set(player,field_id,any:value)
+native any:aes_field_get(player,field_id)
+native aes_field_register_forward(field_id,callback[])
